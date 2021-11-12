@@ -1,5 +1,5 @@
 # Reinaldo A. Junior
-Passionate software developer and hardware enthusiast. I began my journey through programing as a wannabe game developer, on an eternal struggle against RPG Maker Ruby.
+Passionate software developer and hardware enthusiast. I began my journey through programing as a wannabe game developer, on an eternal struggle against RPG Maker's Ruby.
 
 ## What I'm doing
 - I’m currently learning [Laravel](https://github.com/laravel/laravel)
